@@ -137,7 +137,7 @@ function default_settings() {
   HN="ubuntu"
   CPU_TYPE=""
   CORE_COUNT="2"
-  RAM_SIZE="2048"
+  RAM_SIZE="4096"
   BRG="vmbr0"
   MAC="$GEN_MAC"
   VLAN=""
